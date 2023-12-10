@@ -3,6 +3,8 @@ nums = [1, 2, 3, 4]
 nums[0] = 10
 nums[2] = 30
 
+
+
 print(nums[3], nums[-1])
 # -1 that start count from the end of list, second value is index in the list in the list :)
 nums1 = [1, 2, 3, 4, [5, 6, 7]]
@@ -38,3 +40,6 @@ print(num2.count(5))
 
 # lenght list
 print(len(num2))
+
+# In operator
+print(1 in b)
