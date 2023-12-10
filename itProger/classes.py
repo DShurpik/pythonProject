@@ -1,8 +1,5 @@
 # Create class and describe it
 class Cat:
-    name = None
-    age = None
-    isHappy = None
 
     # Function, for creating a class constructor
     def __init__(self, name, age, isHappy):
